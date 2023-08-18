@@ -2,7 +2,7 @@
 #include "analog.h"
 #include "pointing_device.h"
 
-bool joyoffon = 0;
+bool joyoffon = 1;
 /*  https://docs.qmk.fm/#/feature_pointing_device?id=manipulating-mouse-reports   */
 
 /*  Layouts  */
